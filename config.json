@@ -1,0 +1,22 @@
+{
+  "IntervalSeconds": 2,
+  "FailThreshold": 15,
+  "DiscordWebhook": "https://discord.com/api/webhooks/1474122823743312033/B55mk27Wp84rGlHmsBojMsY_1xX0_hlW3iq_uSLiIvFQaTWqb0MyO1FpzJAW-FoLt6i2",
+  "Hosts": [
+    {
+      "Name": "Test Server",
+      "Ip": "192.168.2.1",
+      "Description": "Servidor de pruebas"
+    },
+    {
+      "Name": "HPV-30",
+      "Ip": "192.168.0.29",
+      "Description": "HPV de Prod"
+    },
+    {
+      "Name": "Test-DKR",
+      "Ip": "172.18.7.55",
+      "Description": "Servidor remoto DKR"
+    }
+  ]
+}

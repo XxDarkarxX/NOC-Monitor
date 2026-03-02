@@ -1,0 +1,25 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio Code settings
+.vscode/
+
+# Logs
+logs.txt
+
+# Published builds
+publish/
+
+# Backup or temp
+*.tmp
+*.bak
+*.old
+
+# MacOS / Windows cruft
+.DS_Store
+Thumbs.db
