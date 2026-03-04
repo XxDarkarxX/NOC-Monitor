@@ -1,0 +1,15 @@
+C:\Users\fsalas\Desktop\Programs\Monitor project\bin\Debug\net9.0\Monitor project.exe
+C:\Users\fsalas\Desktop\Programs\Monitor project\bin\Debug\net9.0\Monitor project.deps.json
+C:\Users\fsalas\Desktop\Programs\Monitor project\bin\Debug\net9.0\Monitor project.runtimeconfig.json
+C:\Users\fsalas\Desktop\Programs\Monitor project\bin\Debug\net9.0\Monitor project.dll
+C:\Users\fsalas\Desktop\Programs\Monitor project\bin\Debug\net9.0\Monitor project.pdb
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.AssemblyInfoInputs.cache
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.AssemblyInfo.cs
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.csproj.CoreCompileInputs.cache
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.dll
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\refint\Monitor project.dll
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.pdb
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.genruntimeconfig.cache
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\ref\Monitor project.dll
+C:\Users\fsalas\Desktop\Programs\Monitor project\obj\Debug\net9.0\Monitor project.sourcelink.json

@@ -1,0 +1,57 @@
+{
+  "IntervalSeconds": 2,
+  "FailThreshold": 15,
+  "DiscordWebhook": "https://discord.com/api/webhooks/1474122823743312033/B55mk27Wp84rGlHmsBojMsY_1xX0_hlW3iq_uSLiIvFQaTWqb0MyO1FpzJAW-FoLt6i2",
+  "Hosts": [
+    {
+      "Name": "Test Server",
+      "Ip": "192.168.2.1",
+      "Description": "Servidor de pruebas"
+    },
+    {
+      "Name": "HPV-30",
+      "Ip": "192.168.0.29",
+      "Description": "HPV de Prod"
+    },
+    {
+      "Name": "Node-M",
+      "Ip": "192.168.0.62",
+      "Description": "Base de Datos"
+    },
+    {
+      "Name": "LiveHelp-C1",
+      "Ip": "192.168.100.78",
+      "Description": "Livechat"
+    },
+    {
+      "Name": "Cirion",
+      "Ip": "8.242.196.65",
+      "Description": "ISP"
+    },
+    {
+      "Name": "RackNation",
+      "Ip": "168.197.98.129",
+      "Description": "ISP"
+    },
+    {
+      "Name": "Columbus",
+      "Ip": "138.122.24.49",
+      "Description": "ISP"
+    },
+    {
+      "Name": "Boomerang",
+      "Ip": "138.122.247.1",
+      "Description": "ISP"
+    },
+    {
+      "Name": "Liberty",
+      "Ip": "170.81.32.225",
+      "Description": "ISP"
+    },
+    {
+      "Name": "Columbus 2",
+      "Ip": "138.122.25.129",
+      "Description": "ISP"
+    }
+  ]
+}
